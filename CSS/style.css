@@ -1,0 +1,21 @@
+/*used to main*/
+body {
+    background-color:#00B095;
+    color: #000000;
+}
+
+.sections {
+    background-color:#FCFCFC;
+    font-family:Times,宋体;
+    width:100%;
+}
+
+.titles {
+    font-size:30px;
+    font-family:Arial;
+}
+
+.maintitle {
+    font-size:40px;
+    font-family:Times,宋体;
+}
